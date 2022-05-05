@@ -1,5 +1,4 @@
-# MS-EMD
-
+# MS-EMD: Few-shot font style transfer with multiple style encoders
 ### 环境配置
 TensorFlow=2.3
 Python=3.8
